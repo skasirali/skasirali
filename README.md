@@ -10,5 +10,5 @@
 - [Random Forest Classifier](https://github.com/skasirali/random-forest-classification)
 
 ### 📫 Reach Me
-[LinkedIn](https://www.linkedin.com/in/sk-asir-ali-385926320)  
+[LinkedIn](https://www.linkedin.com/in/sk-asir-ali)  
 [Email](mailto:skasir.ali@icloud.com)
