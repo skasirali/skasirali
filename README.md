@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I’m Sk Asir Ali  
+🎓 B.Tech CSE (2021–25) | Aspiring Data Analyst  
+🔍 Hands-on with Python, SQL, Power BI, pandas  
+🧪 Built projects on cleaning, modeling, visualizing real-world data  
+🌱 Currently building more analytics case studies
 
-<!--
-**skasirali/skasirali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Projects
+- [Superstore Data Cleaning](https://github.com/skasirali/data-preparation-superstore)
+- [Descriptive Statistics Analysis](https://github.com/skasirali/descriptive-statistics-eda)
+- [Random Forest Classifier](https://github.com/skasirali/random-forest-classification)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach Me
+[LinkedIn](https://www.linkedin.com/in/sk-asir-ali-385926320)  
+[Email](mailto:skasir.ali@icloud.com)
